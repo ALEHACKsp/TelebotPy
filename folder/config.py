@@ -1,0 +1,2 @@
+TELEBOTTOKEN = ''
+VKTOKEN = ''
